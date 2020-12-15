@@ -1,4 +1,3 @@
-from tinydrop import tinydrop_main_class as tmc
 import numpy as np
 
 
