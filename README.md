@@ -8,11 +8,11 @@
 
 ## List of Algorithms Implemented
 
-[1. Linear Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/linear_regression.py)
+[Linear Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/linear_regression.py)
 
-[2. Logistic Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/logistic_regression.py)
+[Logistic Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/logistic_regression.py)
 
-3. Convolution of Images
+Convolution of Images
 
 ### Contact Details
 
