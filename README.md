@@ -8,7 +8,7 @@
 
 ## List of Algorithms Implemented
 
-   [Linear Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/linear_regression.py)
+  +  [Linear Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/linear_regression.py)
 
    [Logistic Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/logistic_regression.py)
 
