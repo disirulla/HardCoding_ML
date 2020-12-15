@@ -15,3 +15,4 @@
 ### Contact Details
 
 :email: siddhartha18101@iiitnr.edu.in
+:email: pranav18100@iiitnr.edu.in
