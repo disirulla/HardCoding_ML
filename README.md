@@ -8,10 +8,8 @@
 
 ## List of Algorithms Implemented
 
-[link to Google!](http://google.com)
-1.
-[Linear Regression] (https://github.com/siddhartha18101/HardCoding_ML/blob/main/linear_regression.py)
-2. [Logistic Regression] (https://github.com/siddhartha18101/HardCoding_ML/blob/main/logistic_regression.py)
+1.[Linear Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/linear_regression.py)
+2. [Logistic Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/logistic_regression.py)
 3. Convolution of Images
 
 ### Contact Details
