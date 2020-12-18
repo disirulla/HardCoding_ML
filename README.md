@@ -12,6 +12,8 @@
 
   + [Logistic Regression](https://github.com/siddhartha18101/HardCoding_ML/blob/main/logistic_regression.py)
   
+  + [Convolution of Image](https://github.com/siddhartha18101/HardCoding_ML/blob/main/convolution.py)
+  
   + And many more coming soon
 
 
