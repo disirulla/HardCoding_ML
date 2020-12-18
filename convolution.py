@@ -1,11 +1,12 @@
 #Author: Alluri L S V Siddhartha Varma
 #Date: 18-12-2020
-#TODO: Add Strides
+
 
 import numpy as np
 from PIL import Image
 
 def convolution(image, kernel_size = (3,3), padding = 0, pad_with = 0, conv_type = 'valid'):
+    #TODO: Add Strides
     '''
         Convolution of an Image: Convolution is kind of cross-corelation operation on images with a matrix called filter or kernel./n
         It is very prominent technique used in Deep Learning for extracting features from images. Basic block of Convolutional neural network./n
