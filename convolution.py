@@ -3,7 +3,6 @@
 
 
 import numpy as np
-from PIL import Image
 
 def convolution(image, kernel_size = (3,3), padding = 0, pad_with = 0, conv_type = 'valid'):
     #TODO: Add Strides
